@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.outfit-300{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+}
+
+
+
+.outfit-400{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
+
+.outfit-500{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+}
+
+
+.outfit-600{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+}
+
+
+.outfit-700{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
